@@ -1,0 +1,72 @@
+Archive
+------------------
+Date:
+2018-11-18 10:43
+Login: amalia
+------------------
+Date:
+2018-11-18 10:45
+Message From: amalia
+To: takis
+Message: Meeting aurio stis 3 me ceo
+------------------
+Date:
+2018-11-18 10:45
+Logout: amalia
+------------------
+Date:
+2018-11-18 11:05
+Login: admin
+------------------
+Date:
+2018-11-18 11:05
+Logout: admin
+------------------
+Date:
+2018-11-18 11:05
+Login: dimitris
+------------------
+Date:
+2018-11-18 11:06
+Logout: dimitris
+------------------
+Date:
+2018-11-18 11:06
+Login: dimitris
+------------------
+Date:
+2018-11-18 11:07
+Logout: dimitris
+------------------
+Date:
+2018-11-18 11:15
+Login: petros89
+------------------
+Date:
+2018-11-18 11:16
+Message From: petros89
+To: amalia
+Message: Arxeiothetisi twn fakelwn ths prohgoumenhs ebdomadas
+------------------
+Date:
+2018-11-18 11:16
+Logout: petros89
+------------------
+Date:
+2018-11-18 11:16
+Login: amalia
+------------------
+Date:
+2018-11-18 11:16
+Message From: amalia
+To: petros89
+Message: egine h arxeiothetisi ton fakelwn apo 25/11
+------------------
+Date:
+2018-11-18 11:16
+Logout: amalia
+------------------
+Date:
+2018-11-18 11:16
+Login: admin
+------------------
