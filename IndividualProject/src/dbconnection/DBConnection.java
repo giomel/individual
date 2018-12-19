@@ -21,7 +21,7 @@ public class DBConnection {
 	PreparedStatement pst;
 	
 	public DBConnection() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public static void connectDB() {
